@@ -12,5 +12,3 @@ Hello my name is Shawn Dahm and this is to better help myself grow and understan
 
 ## Contacts
 https://github.com/SonicRockn
-
-oiuhuknn
