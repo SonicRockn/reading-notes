@@ -9,7 +9,7 @@ Hello my name is Shawn Dahm and this is to better help myself grow and understan
 
 
 ## Table of Contents
-### *Class 102:*
+### *Class 102 Reading Notes:*
 [Class 1](102/class1.md)
 
 [Class 2](102/class2.md)
@@ -26,7 +26,7 @@ Hello my name is Shawn Dahm and this is to better help myself grow and understan
 
 [Class 8](102/class8.md)
 
-### *Class 201:*
+### *Class 201 Reading Notes:*
  [Class 1](201/class1.md)
 
  [Class 2](201/class2.md)
