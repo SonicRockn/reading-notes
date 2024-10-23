@@ -59,6 +59,8 @@ Hello my name is Shawn Dahm and this is to better help myself grow and understan
 
  [Class 15](201/class15.md)
 
+ [Prompt-engineering](Code-201_Foundations_of_Software_Development/prompt-engineering.md)
+
 ### *Code 301 Intermediate Software Development*
 
 
